@@ -1,0 +1,27 @@
+.no {
+  width: 5%;
+}
+.action {
+  width: 20%;
+  text-align: center;
+}
+
+table > tbody > * {
+  vertical-align: middle;
+}
+
+.paginate {
+  background-color: black;
+}
+
+iframe {
+  width: 560px;
+  height: 315px;
+}
+
+@media screen and (max-width: 600px) {
+  iframe {
+    width: 100%;
+    height: 200px;
+  }
+}
